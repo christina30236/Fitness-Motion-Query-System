@@ -1,0 +1,12 @@
+# 忽略 Visual Studio 暫存檔
+.vs/
+*.user
+*.slnx
+
+# 忽略編譯產出的檔案
+[Bb]in/
+[Oo]bj/
+
+# 忽略本地端資料庫檔案 (避免把 .mdf 上傳)
+*.mdf
+*.ldf
